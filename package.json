@@ -1,0 +1,19 @@
+{
+    "name": "@logicfenx/coinomize-bitcoin-tu",
+    "version": "1.0.0",
+    "description": "Paquete NPM correspondiente a coinomize-bitcoin-tu",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/logicfenx/coinomize-bitcoin-tu.git"
+    },
+    "author": "Logicfenx",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://www.stockbitcoin.info/coinomize-bitcoin-tumbler/"
+    },
+    "homepage": "https://www.stockbitcoin.info/coinomize-bitcoin-tumbler/"
+}
